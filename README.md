@@ -10,13 +10,13 @@ Exploring data-driven platforms in healthcare and sustainability.
 
 
 🛠️ Tools I use--
-Languages: Python, SQL|
-Data & ML: Pandas, NumPy, Scikit-learn|
+Languages: Python, SQL | 
+Data & ML: Pandas, NumPy, Scikit-learn | 
 Workflow: Git, APIs, cloud fundamentals.
 
 
 📫 How to reach me--
-GitHub: You’re already here 🙂|
-LinkedIn: https://www.linkedin.com/in/vigneshkumaranv/|
-Email: Vigneshvairam22@gmail.com|
+GitHub: You’re already here 🙂 | 
+LinkedIn: https://www.linkedin.com/in/vigneshkumaranv/ | 
+Email: Vigneshvairam22@gmail.com | 
 Email: Brashventures@yahoo.com
